@@ -368,10 +368,19 @@ footer div.info p {
 .product_detail_contain {
   flex: 3;
   font-size: 1.8rem;
+  line-height: 4rem;
 }
 .product_detail_contain h1 {
   margin-bottom: 2rem;
   font-size: 2.8rem;
+}
+
+.askmore {
+  display: flex;
+  justify-content: center;
+}
+.askmore .ask {
+  margin-top: 10rem;
 }
 
 .more_title h3 {
